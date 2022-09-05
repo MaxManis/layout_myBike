@@ -16,7 +16,7 @@ a {
 
 @font-face {
   font-family: "Roboto";
-  src: url("Roboto-Regular-webfont.58cb7732.woff") format("woff");
+  src: url("./Roboto-Regular-webfont.58cb7732.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
@@ -68,7 +68,7 @@ a {
       gap: 40px; } }
 
 .header {
-  background-image: url("header.1e53b67d.png");
+  background-image: url("./header.1e53b67d.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -217,7 +217,7 @@ a {
   background-repeat: no-repeat;
   text-decoration: none; }
   .icon--tel {
-    background-image: url("phone.b979c70b.svg");
+    background-image: url("./phone.b979c70b.svg");
     height: 18px;
     width: 18px; }
     @media (min-width: 1024px) {
@@ -241,18 +241,18 @@ a {
         font-weight: 700;
         transition: opacity 0.4s, transform 0.4s; } }
   .icon--menu {
-    background-image: url("menu.2b71b4ce.svg");
+    background-image: url("./menu.2b71b4ce.svg");
     transition-duration: 0.4s;
     height: 18px;
     width: 18px; }
     .icon--menu:hover {
-      background-image: url("menu_hover.66afb508.svg"); }
+      background-image: url("./menu_hover.66afb508.svg"); }
     @media (min-width: 1024px) {
       .icon--menu {
         height: 24px;
         width: 24px; } }
   .icon--cross {
-    background-image: url("cross.b107c138.svg");
+    background-image: url("./cross.b107c138.svg");
     height: 18px;
     width: 18px; }
     @media (min-width: 1024px) {
@@ -927,7 +927,7 @@ a {
   display: flex;
   justify-content: start;
   align-items: center;
-  background-image: url("footer.0981fff6.png");
+  background-image: url("./footer.0981fff6.png");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
